@@ -46,4 +46,4 @@ plt.plot(x,vprime)
 
 plt.text(2.2,1.4,'max error = ' + str(error))
 plt.show()
-plt.savefig('output4.png')
+plt.savefig('output5.png')
