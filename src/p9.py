@@ -4,7 +4,7 @@ import scipy.fft as fft
 import numpy as np
 from math import *
 
-N = 48
+N = 16
 xx = np.arange(-1.01,1.01,.005)
 
 plt.figure()
